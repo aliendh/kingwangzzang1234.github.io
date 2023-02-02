@@ -1,3 +1,6 @@
+" ~/.vimrc
+
+
 " Be iMproved
 set nocompatible
 
